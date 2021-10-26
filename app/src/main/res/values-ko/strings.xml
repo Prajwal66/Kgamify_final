@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kgamify</string>
+    <string name="sign_in">로그인</string>
+    <string name="enter_phone_number">전화번호 입력</string>
+    <string name="send_otp">OTP 보내기</string>
+    <string name="skip">건너 뛰다</string>
+    <string name="language">한국인</string>
+</resources>

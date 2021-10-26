@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kgamify</string>
+    <string name="sign_in">Sign In</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="skip">Skip</string>
+    <string name="language">English</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kgamify</string>
+    <string name="sign_in">साइन इन करें</string>
+    <string name="enter_phone_number">फोन नंबर दर्ज</string>
+    <string name="send_otp">OTP भेजें</string>
+    <string name="skip">छोड़ें</string>
+    <string name="language">हिंदी</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kgamify</string>
+    <string name="sign_in">Iniciar sesión</string>
+    <string name="enter_phone_number">Ingresa número telefónico</string>
+    <string name="send_otp">Enviar OTP</string>
+    <string name="skip">Saltar</string>
+    <string name="language">español</string>
+</resources>
